@@ -1,0 +1,49 @@
+
+.garden{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.water{
+    margin-top: 10%;
+    grid-column-start: 2 ;
+    grid-column:span 2 ;
+}
+
+
+.name{
+    margin-top: 16%;
+
+    grid-column-start: 5;
+    grid-column:span 2 ;
+
+}
+
+
+#breadcrumbs{
+    margin-top: 1%;
+    color: #ff526c;
+}
+
+.price{
+    color: #ffb800;
+    font-size: 24px;
+}
+
+
+button{
+    color: #ffb800;
+}
+
+
+.product-details > * {
+    
+    margin-bottom: 10px; 
+}
+
+.btn-primary:hover {
+    background-color: #ff526c; /* Replace with your desired hover color */
+    border-color: #ff526c; /* Change border color if needed */
+    color: #ffffff; /* Change text color if needed */
+}
+

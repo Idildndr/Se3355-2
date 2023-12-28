@@ -1,0 +1,15 @@
+
+/* Add this CSS to your styles */
+.carousel-container {
+    height: 300px; /* Set a fixed height for the carousel container */
+}
+
+.carousel-image {
+    object-fit: cover; /* Control how the images fill the available space */
+    height: 100%; /* Ensure the images cover the entire carousel container */
+}
+
+
+body{
+    background-color: red;
+}

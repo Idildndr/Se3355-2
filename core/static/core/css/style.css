@@ -1,0 +1,28 @@
+.logo{
+    max-width: 70px;
+    height: auto;
+    
+}
+
+
+.btn-primary{
+    background-color:#fb9120 ;
+    border-color: #fb9120;
+}
+
+footer{
+    background: #d1d5db;
+
+}
+
+
+.carousel-container {
+    height: 300px; /* Set a fixed height for the carousel container */
+}
+
+.carousel-image {
+    object-fit: cover; /* Control how the images fill the available space */
+    height: 100%; /* Ensure the images cover the entire carousel container */
+}
+
+

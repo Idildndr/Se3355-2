@@ -1,0 +1,10 @@
+body{
+    margin: 16px;
+    background-color: aliceblue;
+}
+
+
+.logo{
+    max-width: 100px;
+    height: auto;
+}
